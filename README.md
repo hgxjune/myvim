@@ -9,5 +9,9 @@ https://github.com/VundleVim/Vundle.vim/blob/master/README_ZH_CN.md
 ```shell
 git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
+git clone https://github.com/hgxjune/myvim.git ~/.vim/hgxjune/myvim.git
+
+cp ~/.vim/hgxjune/myvim.git/vimrc ~/.vimrc
+
 vim +PluginInstall +qall
 ```
