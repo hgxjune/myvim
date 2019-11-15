@@ -60,7 +60,7 @@ Plugin 'vim-airline/vim-airline-themes'
 
 Plugin 'pangloss/vim-javascript'
 Plugin 'jade.vim'
-
+Plugin 'elixir-lang/vim-elixir'
 
 
 " 你的所有插件需要在下面这行之前
