@@ -352,8 +352,8 @@ noremap H ^
 noremap L $
 
 " 插入模式下的光标
-inoremap <C-j> <Down>
-inoremap <C-k> <Up>
-inoremap <C-h> <Left>
-inoremap <C-l> <Right>
+" inoremap <C-j> <Down>
+" inoremap <C-k> <Up>
+" inoremap <C-h> <Left>
+" inoremap <C-l> <Right>
 
