@@ -14,4 +14,6 @@ git clone https://github.com/hgxjune/myvim.git ~/.vim/hgxjune/myvim.git
 cp ~/.vim/hgxjune/myvim.git/vimrc ~/.vimrc
 
 vim +PluginInstall +qall
+
+cp ~/.vim/hgxjune/myvim.git/tmux.conf ~/.tmux.conf
 ```
