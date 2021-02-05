@@ -12,7 +12,8 @@ git clone https://github.com/hgxjune/myvim.git ~/.vim/hgxjune/myvim.git
 sh ~/.vim/hgxjune/myvim.git/install.sh
 ```
 
-```脚本内容
+#### 脚本内容
+```shell
 #! /bin/bash
 
 cd ~
@@ -26,7 +27,8 @@ cp ~/.vim/hgxjune/myvim.git/tmux.conf ~/.tmux.conf
 vim +PluginInstall +qall
 ```
 
-```Vundle常用命令
+#### Vundle常用命令
+```shell
 :BundleList             - 列举列表(也就是.vimrc)中配置的所有插件
 :BundleInstall          - 安装列表中的全部插件
 :BundleInstall!         - 更新列表中的全部插件
